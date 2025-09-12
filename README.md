@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://fabacademy.org/2022/labs/fct/students/ricardo-marques/images/week02/FireTest1.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/debashish-saha1/debashish-saha1/blob/main/0911(1).gif">
 
 
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ashish.saha01@gmail.com**
 
-- 🔥 Know about my experiences [Youtube Video](https://youtube.com/shorts/TPOYb9iSZ-U?si=A-o1ZNSQtVqvXtSI)
+- 🔥 I know about my experiences [Youtube Video](https://youtube.com/shorts/TPOYb9iSZ-U?si=A-o1ZNSQtVqvXtSI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
